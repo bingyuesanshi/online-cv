@@ -54,9 +54,9 @@ sidebar:
 career-profile:
     title: 生涯概况
     summary: |
-      概括你的职业生涯经历，可以使用markdown语法，如使用`**加粗**`来**加粗文字**，使用
+      在这里概括你的职业生涯经历，可以使用markdown语法，如使用`**加粗**`来**加粗文字**，使用
       `[文字](链接)`来给[文字](链接)添加超链等。
-      如需换行，请输入\n而不是直接敲Enter键。
+      </br>如需换行，请输入`</br>`而不是直接敲Enter键。
 
 education:
     title: 教育经历
@@ -65,158 +65,101 @@ education:
         university: 中国科学院大学
         time: 2023 - 2026
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          在这里展开你的教育经历，可以包括你的成绩情况/排名情况/专业课程等，可以使用
+          `  - 分条`来实现分条叙述，样式如下：
+            - 身体倍棒
+            - 吃嘛嘛香
+
       - degree: 广播电视工程
         university: 中国传媒大学
         time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          在这里展开你的教育经历，可以包括你的成绩情况/排名情况/专业课程等，可以使用
+          `  - 分条`来实现分条叙述，样式如下：
+            - 身体倍棒
+            - 吃嘛嘛香
 experiences:
-    title: 职业经历
+    title: 职业经历/实习经历
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 幼儿园老师
+        time: 2019 - Present
+        company: 翻斗幼儿园, 北京
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+
+      - role: 坠机骑手
         time: 2014 - 2015
-        company: Google, London
+        company: GUTS, Chiba-ken
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+
+      - role: 美术生助理
+        time: 1931 - 1945
+        company: Berlin, German
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
 
 certifications:
-      title: Certifications
+      title: 所获荣誉
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
+        - name: 中传青年五四奖章·科创新秀
+          start: 2022.05.04
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: 中国传媒大学
+#          credentialid: 111-222
+          credentialurl: https://mp.weixin.qq.com/s/Yy1517N0oefRJWWWsE8BQA
+          credentialname: 传媒团英
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            简单介绍一下该荣誉的含金量和你为此付出的努力/它能体现出你具有什么能力。
+
+        - name: 年度双创人物
+          start: 2021
+          end: 2023
+          organization: 教育部
+#          credentialid: 111
+          credentialurl: http://gjcxcy.bjtu.edu.cn
+          credentialname: 全国大学生创新创业年会
+          details: |
+            简单介绍一下该荣誉的含金量和你为此付出的努力/它能体现出你具有什么能力。
         
 projects:
-    title: Projects
+    title: 项目经历
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      在这里罗列你参与过的项目经历。
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: 品牌食品加工
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "主要负责给苏打饼干扎眼、给趣多多点巧克力豆。"
 
-      - title: Tempo
+      - title: 拾忆
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "面向博物馆、档案馆提供AI+人工的影像精修服务。"
+#
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 发表论文
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      在此列举你的学术成果或其他出版物/可以通过链接访问的成果。
+
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -234,7 +177,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能
 
     toolset:
       - name: Python & Django
@@ -256,4 +199,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://pyxblog.cn/" target="_blank" rel="nofollow">清弦.</a>

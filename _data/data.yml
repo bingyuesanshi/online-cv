@@ -4,51 +4,32 @@
 #
 
 sidebar:
-    education: True  # set to False if you want education in main section instead of in sidebar
+    education: False  # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
+
     name: 清弦.  # 你的姓名
     tagline: 等风来 不如追风去 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
-    avatar: avatar.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: avatar.jpeg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
 
-    # Sidebar links
+
     email: cuc_pyx@qq.com
     phone: 18888888888
-#    timezone: America/Cancun Timezone
-#    citizenship:
-    website: pyxblog.cn  #do not add http://
-#    linkedin: alandoe
-#    xing: alandoe
-    github: cnicpyx
-#    telegram: # add your nickname without '@' sign
-#    gitlab:
-#    bitbucket:
-#    twitter: '@webjeda'
+    website: pyxblog.cn  # 个人主页链接，前面不要添加http://
+    github: cnicpyx  # GitHub用户名
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
-#    codewars:
-#    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      title: Languages
-      info:
-        - idiom: Chinese
-          level: Native
-
-        - idiom: English
-          level: Professional
+#    pdf:
 
 
     interests:
-      title: Interests
+      title: 爱好
       info:
-        - item: Swimming
+        - item: 游泳
           link:
 
-        - item: Coding
+        - item: 编程
           link:
 
-        - item: Cooking
+        - item: 画饼
           link:
 
 career-profile:
@@ -87,7 +68,7 @@ experiences:
         details: |
           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
 
-      - role: 坠机骑手
+      - role: 坠机驾驶员
         time: 2014 - 2015
         company: GUTS, Chiba-ken
         details: |
@@ -130,7 +111,7 @@ projects:
     assignments:
       - title: 品牌食品加工
         link: "#"
-        tagline: "主要负责给苏打饼干扎眼、给趣多多点巧克力豆。"
+        tagline: "主要负责给苏打饼干扎眼儿、给趣多多点巧克力豆。"
 
       - title: 拾忆
         link: "#"

@@ -1,33 +1,32 @@
 #
-# 简历中的所有内容都可以在这一文件中修改
-# 
+# 简历中的所有内容基本都在这里修改
+# 所以尽量别动其他的文件!
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False  # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yuxuan Pang
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 清弦.  # 你的姓名
+    tagline: 等风来 不如追风去 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
+    avatar: avatar.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: cuc_pyx@qq.com
+    phone: 18888888888
+#    timezone: America/Cancun Timezone
+#    citizenship:
+    website: pyxblog.cn  #do not add http://
+#    linkedin: alandoe
+#    xing: alandoe
+    github: cnicpyx
+#    telegram: # add your nickname without '@' sign
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:

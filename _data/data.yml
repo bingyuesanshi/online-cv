@@ -4,7 +4,7 @@
 #
 
 sidebar:
-    education: False  # set to False if you want education in main section instead of in sidebar
+    education: True  # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 清弦.  # 你的姓名
@@ -32,42 +32,38 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Swimming
           link:
 
-        - item: Snowboarding
+        - item: Coding
           link:
 
         - item: Cooking
           link:
 
 career-profile:
-    title: Career Profile
+    title: 生涯概况
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      概括你的职业生涯经历，可以使用markdown语法，如使用`**加粗**`来**加粗文字**，使用
+      `[文字](链接)`来给[文字](链接)添加超链等。
+      如需换行，请输入\n而不是直接敲Enter键。
+
 education:
-    title: Education
+    title: 教育经历
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: 计算机技术
+        university: 中国科学院大学
+        time: 2023 - 2026
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +72,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: 广播电视工程
+        university: 中国传媒大学
+        time: 2019 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,7 +84,7 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: 职业经历
     info:
       - role: Lead Developer
         time: 2015 - Present

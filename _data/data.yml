@@ -26,7 +26,7 @@ sidebar:
     interests:
       title: 爱好
       info:
-        - item: 摄影
+        - item: 摄影、书法
           link:
 
         - item: 编程
@@ -38,10 +38,26 @@ sidebar:
 career-profile:
     title: 生涯概况
     summary: |
-      在这里概括你的职业生涯经历，可以使用markdown语法，如使用`**加粗**`来**加粗文字**，使用
-      `[文字](链接)`来给[文字](链接)添加超链等。
+      个人信息：
 
-      如需换行，请连换两行。
+      
+          姓名：管彦奎
+
+          
+          年龄：21岁
+
+         
+          居住地：中国北京
+
+
+        技能：
+            - 熟悉广播电视工程以及广播电视编导相关知识，包括视频制作、音频处理、电视台运营等
+            - 编程语言：C++、Python、matlab
+                  - 熟练掌握C++语言，能够进行面向对象的编程，熟悉常用数据结构与算法并设计制作程序。
+                  - 熟悉Python编程，具备数据处理和分析能力,并设计制作程序，以及熟练使用ChatGPT辅助工作的经验。
+            - 熟练使用Pr、AE、剪映、motion等视频编辑软件,以及unity、3dMax、AutoCAD、Matlab等软件的使用。
+            - 具备摄影、灯光和音效处理基础知识，能独立完成小型项目的拍摄和后期制作
+            - 熟悉广播新闻写作与采编流程，具备一定的新闻报道能力
 
 education:
     title: 教育经历
@@ -51,10 +67,7 @@ education:
         university: 中国传媒大学
         time: 2021 - 2025
         details: |
-          中国传媒大学广播电视工程专业大三在读生，校内参加
-          `  - 分条`来实现分条叙述，样式如下：
-            - 身体倍棒
-            - 吃嘛嘛香
+          中国传媒大学广播电视工程专业大三在读生，加入传媒电视台灯光部、视频部积极参与项目以及活动，在
 
 
 experiences:
@@ -64,13 +77,13 @@ experiences:
         time: 2023.3 - 2023.6
         company: 陈经纶中学劲松分校(乐贤校区), 北京·朝阳
         details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+          我在中学担任兴趣课书法老师，教授六年级学生硬笔书法，在此期间提升了我的表达能力和交流能力并且锻炼自己在北京通勤的能力。
 
       - role: 高中数学助教
         time: 2021.7 - 2021.9
         company: 朴德教育, 云南·曲靖
         details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
+          我在朴德教育作为教学助教，负责跟踪每位学生的学习状态并及时反馈，以及对学生进行答疑和辅助老师教学的角色，在此期间
 
 
 certifications:
@@ -80,79 +93,68 @@ certifications:
           start: 2018 - 2019
           end:
           organization: 共青团云南省委、云南省教育厅
-#          credentialid: 111-222  # 好像是证书编号
-          credentialurl: https://mp.weixin.qq.com/s/Yy1517N0oefRJWWWsE8BQA
-          credentialname: 传媒团英
+#          credentialid: 111-222  # 证书编号
+#          credentialurl: https://
+#          credentialname: 
           details: |
-            简单介绍一下该荣誉的含金量和你为此付出的努力/它能体现出你具有什么能力。
+            "云南省级三好学生"是指在云南省范围内评选出的表彰优秀学生综合素质的荣誉称号。获得这份荣誉，我在学习过程、品德表现和社会活动努力付出，感谢学校和地区对我综合素质的认可。
 
-        - name: 年度双创人物
-          start: 2021
-          end: 2023
-          organization: 教育部
-          credentialurl: http://gjcxcy.bjtu.edu.cn
-          credentialname: 全国大学生创新创业年会
+        - name: 优秀共青团员
+          start: 2019
+          end:
+          organization: 共青团曲靖市民族中学委员会
+#          credentialurl: http://
+#          credentialname: 
           details: |
-            简单介绍一下该荣誉的含金量和你为此付出的努力/它能体现出你具有什么能力。
+            "优秀共青团员"是指在共青团组织内评选出的对共青团工作和社会活动表现出色的团员的荣誉称号。我在共青团组织活动、社会服务、思想政治表现等方面积极参与和奉献获此殊荣。
 
 
 projects:
     title: 项目经历
     intro: >
-      在这里罗列你参与过的项目经历。
+      
 
     assignments:
-      - title: 品牌食品加工
+      - title: 拾迹
         link: "#"
-        tagline: "主要负责给苏打饼干扎眼儿、给趣多多点巧克力豆。"
+        tagline: "面向旧物、古玩交易市场提供3D建模的物品交易平台。曾获互联网+大学生创新创业大赛北京赛区复赛三等奖和中国传媒大学校内选拔赛中二等奖"
 
-      - title: 拾忆
+      - title: 识趣
         link: "#"
-        tagline: "面向博物馆、档案馆提供AI+人工的影像精修服务。"
+        tagline: "面向短视频基于感情节奏提供AI生成背景音乐软件。"
 
 
-publications:
-    title: 发表论文
-    intro: |
-      在此列举你的学术成果或其他出版物/可以通过链接访问的成果。
+#publications:
+ #   title: 发表论文
+  #  intro: |
+  #    在此列举你的学术成果或其他出版物/可以通过链接访问的成果。
 
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+  #  papers:
+  #    - title: The Art of Computer Programming
+  #      link: "#"
+  #      authors: Donald E. Knuth
+   #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: 技能
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python & c++ & unity
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Pr & AE & Ps & Lr
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: 数字信号处理
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: 摄影、书法
+        level: 95%
+
+      - name: 绘画
         level: 60%
 
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://pyxblog.cn/" target="_blank" rel="nofollow">清弦.</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://pyxblog.cn/" target="_blank" rel="nofollow">管彦奎</a>

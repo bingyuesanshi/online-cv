@@ -6,19 +6,19 @@
 
 sidebar:
     education: False  # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
-
+   
 
     # 基本信息
-    name: 清弦.  # 你的姓名
-    tagline: 等风来 不如追风去 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
+    name: 管彦奎  # 你的姓名
+    tagline: 中国传媒大学大三工科生 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
     avatar: avatar.jpeg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
 
 
     # 以下内容如果自己没有可以在该行的最前面添加"#"
-    email: cuc_pyx@qq.com
-    phone: 18888888888
-    website: pyxblog.cn  # 个人主页链接，前面不要添加http://
-    github: cnicpyx  # GitHub用户名
+    email: cuc_gyk@qq.com
+    phone: 18213190660
+    # website: pyxblog.cn  # 个人主页链接，前面不要添加http://
+    github: bingyuesanshi  # GitHub用户名
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，可以通过https://www.web2pdfconvert.com/将网页转换为pdf
 
@@ -26,13 +26,13 @@ sidebar:
     interests:
       title: 爱好
       info:
-        - item: 游泳
+        - item: 摄影
           link:
 
         - item: 编程
           link:
 
-        - item: 画饼
+        - item: 旅行
           link:
 
 career-profile:
@@ -46,20 +46,12 @@ career-profile:
 education:
     title: 教育经历
     info:
-      - degree: 计算机技术
-        university: 中国科学院大学
-        time: 2023 - 2026
-        details: |
-          在这里展开你的教育经历，可以包括你的成绩情况/排名情况/专业课程等，可以使用
-          `  - 分条`来实现分条叙述，样式如下：
-            - 身体倍棒
-            - 吃嘛嘛香
-
+    
       - degree: 广播电视工程
         university: 中国传媒大学
-        time: 2019 - 2023
+        time: 2021 - 2025
         details: |
-          在这里展开你的教育经历，可以包括你的成绩情况/排名情况/专业课程等，可以使用
+          中国传媒大学广播电视工程专业大三在读生，校内参加
           `  - 分条`来实现分条叙述，样式如下：
             - 身体倍棒
             - 吃嘛嘛香
@@ -68,21 +60,15 @@ education:
 experiences:
     title: 职业经历/实习经历
     info:
-      - role: 幼儿园老师
-        time: 2019 - Present
-        company: 翻斗幼儿园, 北京
+      - role: 书法老师
+        time: 2023.3 - 2023.6
+        company: 陈经纶中学劲松分校(乐贤校区), 北京·朝阳
         details: |
           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
 
-      - role: 坠机驾驶员
-        time: 2014 - 2015
-        company: GUTS, Chiba-ken
-        details: |
-          介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
-
-      - role: 美术生助理
-        time: 1931 - 1945
-        company: Berlin, German
+      - role: 高中数学助教
+        time: 2021.7 - 2021.9
+        company: 朴德教育, 云南·曲靖
         details: |
           介绍你的工作情况，可以包括具体承担的工作内容、学习掌握的相关技能等。
 
@@ -90,10 +76,10 @@ experiences:
 certifications:
       title: 所获荣誉
       list:
-        - name: 中传青年五四奖章·科创新秀
-          start: 2022
+        - name: 云南省级三好学生
+          start: 2018 - 2019
           end:
-          organization: 中国传媒大学
+          organization: 共青团云南省委、云南省教育厅
 #          credentialid: 111-222  # 好像是证书编号
           credentialurl: https://mp.weixin.qq.com/s/Yy1517N0oefRJWWWsE8BQA
           credentialname: 传媒团英

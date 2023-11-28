@@ -120,20 +120,19 @@ projects:
 
       - title: 识趣
         link: "#"
-        tagline: "基于AI深度学习的视频背景音乐生成。拟国家级大创立项，第九届中国国际“互联网+”大学生创新创业大赛北京赛区复赛三等奖
+        tagline: "基于AI深度学习的视频背景音乐生成。拟国家级大创立项，第九届中国国际“互联网+”大学生创新创业大赛北京赛区复赛三等奖"
 
 
-#  publications:
- #   title: 发表论文
-  #  intro: |
-  #    在此列举你的学术成果或其他出版物/可以通过链接访问的成果。
+###  publications:
+# #   title: 发表论文
+#  #  intro: |
+#  #    在此列举你的学术成果或其他出版物/可以通过链接访问的成果。
 
-  #  papers:
-  #    - title: The Art of Computer Programming
-  #      link: "#"
-  #      authors: Donald E. Knuth
-   #     conference: Addison-Wesley, 1968
-
+#  #  papers:
+#  #    - title: The Art of Computer Programming
+#  #      link: "#"
+#  #      authors: Donald E. Knuth
+#   #     conference: Addison-Wesley, 1968
 
 skills:
     title: 技能

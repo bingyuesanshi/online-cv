@@ -62,7 +62,7 @@ education:
     title: 教育经历
     info:
     
-      - degree: 广播电视工程专业&广播电视编导（电视编辑方向）辅修专业
+      - degree: 广播电视工程专业 & 广播电视编导（电视编辑方向）辅修专业
         university: 中国传媒大学
         time: 2021 - 2025
         details: |
@@ -72,7 +72,6 @@ education:
 experiences:
     title: 职业经历/实习经历
     info:
-    
      - role: 摄影助理
        time: 2023.12 - 2024.1
        company: 电视学院新生嘉年华, 北京·朝阳

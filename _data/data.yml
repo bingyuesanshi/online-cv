@@ -29,7 +29,7 @@ sidebar:
         - item: 摄影
           link:
 
-        - item: 编程、书法
+        - item: 书法
           link:
 
         - item: 旅行
@@ -49,13 +49,13 @@ career-profile:
         技能：
     
             - 熟悉广播电视工程以及广播电视编导相关知识，包括视频制作、音视频处理、电视节目转播等
-            - 了解转播过程的导播摄像、视频技术等基本知识，能够快速搭建简易EFP系统                 
+            - 了解转播过程的导播摄像、视频技术等基本知识，能够快速搭建简易EFP系统以及讯道拍摄系统                 
             - 具备摄影、灯光和音效处理基础知识，能独立完成小型项目的拍摄和后期制作
             - 熟练使用Pr、剪映、motion等视频编辑软件，了解LR、PS、AE的使用,以及unity、3dMax、AutoCAD、Matlab等软件的使用
             - 熟悉广播新闻写作与采编流程，具备一定的新闻报道能力
             - 编程语言：C++、Python、matlab
-               - 熟练掌握C++语言，能够进行面向对象的编程，熟悉常用数据结构与算法并设计制作程序
-               - 熟悉Python编程，具备数据处理和分析能力,并设计制作程序，以及熟练使用人工智能辅助工作的经验
+               - 掌握C++语言，能够进行面向对象的编程，熟悉常用数据结构与算法并设计制作程序
+               - 掌握Python编程，具备数据处理和分析能力,并设计制作程序，以及熟练使用人工智能辅助工作的经验
             - 熟练使用PPt、Excel总结并汇报工作以及归纳数据
             
 
@@ -81,7 +81,7 @@ experiences:
 
       - role: 合唱比赛主机位摄像
         time: 2024.5- 2024.6
-        company: 转播沙龙, 云南·曲靖
+        company: 转播沙龙, 北京·朝阳
         details: |
           在本次活动中，我在摄像团队中担任2号机摄像，通过活动提高了自己的转播素养和技能。
 
@@ -89,6 +89,15 @@ experiences:
 certifications:
       title: 所获荣誉
       list:
+        - name: 中视广信学科竞赛单项奖学金
+          start: 2023.12
+          end:
+          organization: 中国传媒大学信息与通信工程学院
+#          credentialurl: http://
+#          credentialname: 
+          details: |
+            2022-2023学年度德智体美劳各方面优异成绩。
+      
         - name: 云南省级三好学生
           start: 2018 - 2019
           end:
@@ -108,14 +117,7 @@ certifications:
           details: |
             "优秀共青团员"是指在共青团组织内评选出的对共青团工作和社会活动表现出色的团员的荣誉称号。我在共青团组织活动、社会服务、思想政治表现等方面积极参与和奉献获此殊荣。
             
-        - name: 中视广信学科竞赛单项奖学金
-          start: 2023.12
-          end:
-          organization: 中国传媒大学信息与通信工程学院
-#          credentialurl: http://
-#          credentialname: 
-          details: |
-            2022-2023学年度德智体美劳各方面优异成绩。
+
 
 projects:
     title: 项目经历
@@ -130,7 +132,10 @@ projects:
       - title: 识趣
         link: "#"
         tagline: "基于AI深度学习的视频背景音乐生成。拟国家级大创立项，第九届中国国际“互联网+”大学生创新创业大赛北京赛区复赛三等奖"
-
+ 
+   - title: “音”绘舞彩
+        link: "#"
+        tagline:基于音频情感识别的沉浸式舞台导播切换和灯光自适应系统研究，创新创业训练项目
 
 #  publications:
 # #   title: 发表论文
@@ -147,13 +152,13 @@ skills:
     title: 技能
 
     toolset:
-      - name: Python & c++ & unity
-        level: 90%
-
       - name: Pr & AE & Ps & Lr
         level: 90%
 
-      - name: 数字信号处理
+      - name: Python & c++ & unity
+        level: 90%
+
+      - name: 转播
         level: 90%
 
       - name: 摄影、书法
